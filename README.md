@@ -2,6 +2,8 @@
 
 ./cube3D
 
+https://www.youtube.com/watch?v=VCAzl3tc3iU&ab_channel=V.Nguyen
+
 Bonus de la liste :
 * Collision avec les murs
 * Skybox
