@@ -5,7 +5,7 @@
 
 https://www.youtube.com/watch?v=VCAzl3tc3iU&ab_channel=V.Nguyen
 
-#### Ce projet permet d'explorer la technique du ray-casting. L'objectif est de faire une vue dynamique au sein d'un labyrinthe.pouf 
+#### Ce projet permet d'explorer la technique du ray-casting. L'objectif est de faire une vue dynamique au sein d'un labyrinthe 
 
 Bonus effectués parmis ceux recommandés dans le sujet :
 * Collision avec les murs
